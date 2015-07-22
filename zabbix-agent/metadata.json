@@ -1,0 +1,13 @@
+{
+  "name": "addi_abel-zabbix_agent",
+  "version": "0.0.1",
+  "author": "addi_abel",
+  "summary": "Zabbix Agent",
+  "license": "Apache 2.0",
+  "source": "https://github.com/addi_abel/zabbix_agent",
+  "project_page": "https://github.com/addi_abel/zabbix_agent",
+  "issues_url": "https://github.com/addi_abel/zabbix_agent/issues",
+  "dependencies": [
+  
+  ]
+}
